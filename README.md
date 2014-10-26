@@ -2,11 +2,12 @@ StickyStudy List Maker
 ===
 This is a command line tool to turn lists of Chinese vocab in Excel into a format suitable for importing into the iPhone app StickyStudy Chinese.
 
-Install:
+## Install:
 
 `go get github.com/BTBurke/stickystudy`
 
-Usage:
+## Usage:
+
 First, create your wordlists in Excel (or Google Docs) in the following format:
 
 <img src="http://i.imgur.com/FZxJH9h.png">
